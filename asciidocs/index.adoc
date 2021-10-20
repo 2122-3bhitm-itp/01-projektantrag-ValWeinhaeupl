@@ -16,13 +16,13 @@ ifdef::backend-html5[]
 
 = Project proposal
 
-== Aufgabenbeschreibung
+== task description
     My plan is creating a simple second hand trading application, in which you can sell your old items. The application will use a custom currency, which can be gained by either selling items, or charging your wallet with real money.
 
-== Nutzen
+== Uses
     An application like this will create a unique trading environment for it's users.
 
-== Rahmenbedingungen
+== Framework
     * Custom currency
     * Charging wallet with real money
     * Creating listing for used item
