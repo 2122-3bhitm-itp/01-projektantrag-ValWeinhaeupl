@@ -14,8 +14,16 @@ ifdef::backend-html5[]
 // print the toc here (not at the default position)
 //toc::[]
 
-== Header 1
-asdfasdfasdfasdf
+= Project proposal
 
-=== Header 2
+== Aufgabenbeschreibung
+    My plan is creating a simple second hand trading application, in which you can sell your old items. The application will use a custom currency, which can be gained by either selling items, or charging your wallet with real money.
 
+== Nutzen
+    An application like this will create a unique trading environment for it's users.
+
+== Rahmenbedingungen
+    * Custom currency
+    * Charging wallet with real money
+    * Creating listing for used item
+    * Adding products to shopping cart and paying
